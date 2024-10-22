@@ -10,7 +10,9 @@ Nonlinear MDOF
 #. Make sure the `numpy`_ and `matplotlib`_ packages are installed in your Python distribution.
 #. Run the source code in your favorite Python program and should see
 
-.. image:: /_static/nonlinear_mdof.jpg
+.. image:: /_static/nonlinear_mdof_rel_accel.jpg.jpg
+
+.. image:: /_static/nonlinear_mdof_rel_disp.jpg.jpg
 
 .. literalinclude:: /pyExamples/nonlinear_mdof.py
    :linenos:
