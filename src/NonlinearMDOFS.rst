@@ -1,8 +1,8 @@
 .. include:: sub.txt
 
-==================================
-Example name spaced nonlinear SDOF
-==================================
+==============
+Nonlinear MDOF
+==============
 
 #. The source code is developed by `Maxim Millen <https://github.com/jjaramillod93>`_ from the National University of Engineering.
 #. The source code is shown below, which can be downloaded :download:`here </pyExamples/nonlinear_mdof.py>`.
